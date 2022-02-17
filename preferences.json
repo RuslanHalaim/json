@@ -1,0 +1,11 @@
+{
+	"favorite movie"	:"The fifth element",
+	"favorite TV series":"The black mirror",
+	"favorite meal"		:"Raw meal",
+	"favorite season"	:"summer",
+	"country"			:{
+							"the first"	:"the USA",
+							"the socond":"Japan"
+						}
+}	
+		
