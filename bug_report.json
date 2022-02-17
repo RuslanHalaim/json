@@ -1,1 +1,13 @@
-#start
+//bug report structure
+{
+1: "short name",
+2: "severity",
+3: "environment",
+4: "description",
+5: "steps to reproduce",
+6: "actual result",
+7: "expected result",
+8: "additional docs",
+	- logs
+	- screenshots
+	- other files
