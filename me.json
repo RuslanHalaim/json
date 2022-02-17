@@ -1,7 +1,7 @@
 {
-	"name"		:Ruslan,
-	"surname"	:Halaim,
-	"nikname"	:haruvolod,
+	"name"		:"Ruslan",
+	"surname"	:"Halaim",
+	"nikname"	:"haruvolod",
 	"age"		:49,
 	"pets"		:0,
 	"salary"	:1800
