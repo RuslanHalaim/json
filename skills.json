@@ -1,0 +1,15 @@
+{
+	"skills":{
+	"hard skills"	:{
+		1:"SDLC",
+		2:"Pyton",
+		3:"git",
+		4:"postman",
+		5:"to be continue"
+			},
+	"soft skills"	:{
+		1:"skill 1",
+		2:"skill 2"
+			}
+		}
+}
