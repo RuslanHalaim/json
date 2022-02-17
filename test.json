@@ -1,0 +1,22 @@
+{
+	"group":27,
+	"population":401,
+	"active":"50%",
+	"job_offers":0.5,
+	"men":{
+		{"name": "Alex",
+		 "age":30},
+		{"name": "Eugene",
+		"age":25},
+		{"name": "Sergio",
+		"age":40}
+		},
+	"women":{
+		{"name": "Victoria",
+		"age": 23},
+		{"name": "Olesia",
+		"age": 25},
+		{"name": "Nataly",
+		"age": 22}
+		}
+}
